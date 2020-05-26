@@ -1,0 +1,21 @@
+a, h1{
+	color:#7a0008;
+}
+
+nav a, footer div a{
+	margin:0px 5px;
+}
+
+body {
+	margin: auto;
+	padding:20px;
+	max-width: 600px;
+	text-align: left;
+    background-image: url('../img/so-white.png');
+}
+
+.title {
+    font-family: monospace;
+    font-size: 40px;
+    color: #7a0008;
+}
