@@ -9,13 +9,29 @@ nav a, footer div a{
 body {
 	margin: auto;
 	padding:20px;
-	max-width: 600px;
+	max-width: 800px;
 	text-align: left;
     background-image: url('../img/so-white.png');
+}
+
+footer {
+	text-align: center;
+	padding: 150px 40px;
 }
 
 .title {
     font-family: monospace;
     font-size: 40px;
     color: #7a0008;
+}
+
+.quoteTitle {
+	font-style: italic;
+	font-family: "monaco";
+	text-align: left;
+}
+
+.quote {
+	color: #7a0008;
+	font-family: monaco;
 }
